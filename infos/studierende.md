@@ -36,6 +36,7 @@ Mehr Informationen findet ihr unter [Mailinglisten](/infos/maillists)
 # Studienberatung
 Pro Studiengang bieten wir euch eine dedizierte studentische Studienberatung an, die sich mit allen Belangen des entsprechenden Studiengangs auskennt. Vom Studienverlaufsplan bis hin zur Anrechnung bestimmter Veranstaltungen können euch unsere Studienberater weiterhelfen. Die Studienberatung wird aktuell durch folgende Personen durchgeführt:
 
+{:.table-responsive}
 |Studiengang|Studienberater|
 |-----------|--------------|
 |Informatik, Bioinformatik| Thomas Sachs (studienberatung[ät]informatik.uni-tuebingen.de)|
